@@ -6,8 +6,9 @@ services:
     startCommand: python bot.py
     envVars:
       - key: API_ID
-        value: "ضع_هنا_api_id"
+        value: "28965963"
       - key: API_HASH
-        value: "ضع_هنا_api_hash"
+        value: "9725d1945a3dc200b77c5ab0b346b7e3"
       - key: BOT_TOKEN
-        value: "ضع_هنا_token_البوت"
+        value: "7577276198:AAFybK1yA3h4G9Vhdq6jV5WoRyjAiKWZeZQ
+"
