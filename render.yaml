@@ -10,5 +10,4 @@ services:
       - key: API_HASH
         value: "9725d1945a3dc200b77c5ab0b346b7e3"
       - key: BOT_TOKEN
-        value: "7577276198:AAFybK1yA3h4G9Vhdq6jV5WoRyjAiKWZeZQ
-"
+        value: "7577276198:AAFybK1yA3h4G9Vhdq6jV5WoRyjAiKWZeZQ"
