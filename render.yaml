@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: telegram-youtube-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: API_ID
+        value: "ضع_هنا_api_id"
+      - key: API_HASH
+        value: "ضع_هنا_api_hash"
+      - key: BOT_TOKEN
+        value: "ضع_هنا_token_البوت"
